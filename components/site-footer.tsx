@@ -40,9 +40,9 @@ export function SiteFooter() {
               </a>
             </li>
             <li>
-              <a href="tel:+10000000000" className="flex items-center gap-2 transition-colors hover:text-cyan">
+              <a href="tel:+17863951996" className="flex items-center gap-2 transition-colors hover:text-cyan">
                 <Phone className="size-4 text-cyan" aria-hidden />
-                +1 (000) 000-0000
+                +1 (786) 395-1996
               </a>
             </li>
             <li className="flex items-center gap-2">
